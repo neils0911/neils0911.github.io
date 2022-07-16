@@ -54,7 +54,7 @@ p:hover {
 
 /* Anchor elements */
 a {
-    color: blue; /* This ensures all links are blue */
+    color: rgb(255, 0, 0); /* This ensures all links are blue */
 }
 
 /* Quotation elements */
